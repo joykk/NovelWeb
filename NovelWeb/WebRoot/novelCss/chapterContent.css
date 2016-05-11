@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+h2{
+	text-align: center;
+}
+body{
+	margin: auto;
+	width:800px;
+	background-color: #afcfb8;
+}
+#content{
+	margin: auto;
+}
+#article{
+	font-size: 16px;
+	font-family: "宋体";
+	line-height: 1.5;
+}
+.aL{
+	width:400px;
+}
+.aR{
+	margin-left:400px;
+}

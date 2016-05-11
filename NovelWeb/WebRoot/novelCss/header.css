@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+#header{
+	margin:auto;
+	width: 800px;
+	height:200px;
+	text-align: center;
+}
+#headerleft
+{
+	text-align: left;
+	width: 500px;
+	float: left;
+}
+#headerright{
+	width: 300px;
+	float: left;
+	
+}
+.search{
+	width: 200px;
+	height: 30px;
+}
+button{
+	height: 30px;
+}

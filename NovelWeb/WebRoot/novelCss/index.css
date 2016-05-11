@@ -1,0 +1,51 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #afcfb8;
+}
+#content{
+	margin:auto;
+	width: 800px;
+	height:200px;
+}
+#left{
+	margin:0;
+	width: 150px;
+	height:200px;
+	float: left;
+}
+#main{
+	margin:0;
+	width: 650px;
+	float: left;
+}
+
+a{
+	text-decoration:none;
+}
+a:hover{
+cursor: pointer;
+}
+hr{
+	width: 800px;
+}
+table{
+	width: 100%;
+	margin: 5px;
+}
+table th{
+	text-align: center;
+}
+table td{
+	width:175px;
+	text-align: center;
+}
+table .content{
+	width:175px;
+	height:120px;
+	text-align: justify;
+}
+.description{
+	width: 800px;
+	margin:auto;
+	text-align: left;
+}

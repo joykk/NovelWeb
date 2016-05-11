@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+h2{
+	text-align: center;
+}
+body{
+	margin:auto;
+	width:800px;
+	background-color: #afcfb8;
+}
+#content{
+	margin: auto;
+}
+table{
+	text-align: center;
+	
+}
+th{
+	width: 200px;
+}
+.DR{
+	margin-top:20px;
+	margin-left:600px;
+}
